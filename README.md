@@ -1,8 +1,3 @@
----
-
-
-
-
 <h2 id="simple-devops-project">Simple-Devops-Project</h2>
 <ol>
 <li>
@@ -12,12 +7,12 @@
 <p>Setup CI/CD with Jenkins, Git, Maven, Tomcat</p>
 <ul>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled="">  Setup Jenkins</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="">  Run a test Job</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="">  Setup and Configure Maven and Git</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="">  Setup Tomcat Server</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="">  Installing Additional Required plugins</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="">  Integrating Git, Maven in jenkins job</li>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="">  Run  a CI/CD job</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled="">  Run a test Job</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled="">  Setup and Configure Maven and Git</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled="">  Setup Tomcat Server</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled="">  Installing Additional Required plugins</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled="">  Integrating Git, Maven in jenkins job</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled="">  Run  a CI/CD job</li>
 </ul>
 </li>
 <li>
