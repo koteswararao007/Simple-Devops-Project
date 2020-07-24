@@ -21,8 +21,10 @@ Simple-Devops-Project
     4.2 Integrating Ansible with Jenkins
     4.3 Writing a Ansible playbook to deploy on container
     4.4 Run a job
-5. Setting up Kubernetes
-6.   
+5. Kubernetes 
+     5.1 Setting up Kubernetes
+     5.2 Writing Services and Deployment files
+     5.3 Run a Job
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjA3NDM3NSwtMjA2MjM1OTk1NF19
+eyJoaXN0b3J5IjpbMTI3NTc5NzM5MiwtMjA2MjM1OTk1NF19
 -->
