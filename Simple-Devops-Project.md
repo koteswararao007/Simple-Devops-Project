@@ -10,10 +10,18 @@ Simple-Devops-Project
     - [ ]  Installing Additional Required plugins
     - [ ] Integrating Git, Maven in jenkins job
     - [ ] Run  a CI/CD job
-3. Docker 
-4. Ansible
-5. Kubernetes
+3. Docker
+    
+      - [ ] Setting up Docker Environment
+      - [ ] Managing Docker with Ansible
+      - [ ] DockerHub Repository
+      - [ ] Writing a Dockerfile
+      - [ ] Run a Job
+
+ 
+5. Ansible
+6. Kubernetes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODUxMzYyNiwtMjA2MjM1OTk1NF19
+eyJoaXN0b3J5IjpbOTIwMzk2ODkyLC0yMDYyMzU5OTU0XX0=
 -->
