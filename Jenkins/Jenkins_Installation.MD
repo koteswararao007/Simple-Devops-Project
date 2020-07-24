@@ -78,3 +78,7 @@ Jenkins is a self-contained Java-based program, ready to run out-of-the-box, wit
 1. Build job
 1. Check "console output"
 
+
+
+### If Found any Error while installing JAVA in aws EC2 with amazonlinux2: 
+Refer: https://blog.knoldus.com/installing-latest-oracle-jdk-on-linux-ec2-instance-centos/
