@@ -16,7 +16,13 @@ Simple-Devops-Project
     3.3 DockerHub Repository
     3.4 Writing a Dockerfile
     3.5 Run a Job
-    
+4. Ansible
+    4.1  Setting up Ansible Environment
+    4.2 Integrating Ansible with Jenkins
+    4.3 Writing a Ansible playbook to deploy on container
+    4.4 Run a job
+5. Setting up Kubernetes
+6.   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1NjQ2MDQ4LC0yMDYyMzU5OTU0XX0=
+eyJoaXN0b3J5IjpbMTY0MjA3NDM3NSwtMjA2MjM1OTk1NF19
 -->
