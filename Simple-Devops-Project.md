@@ -10,10 +10,10 @@ Simple-Devops-Project
  - [ ]  Installing Additional Required plugins
  - [ ] Integrating Git, Maven in jenkins job
  - [ ] Run  a CI/CD job
- 5. Docker 
- 6. Ansible
- 7. Kubernetes
+ 3. Docker 
+ 4. Ansible
+ 5. Kubernetes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3MTE1MjgsLTIwNjIzNTk5NTRdfQ==
+eyJoaXN0b3J5IjpbLTE4MDY3NTIyMiwtMjA2MjM1OTk1NF19
 -->
