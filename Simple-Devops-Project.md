@@ -12,7 +12,7 @@ Simple-Devops-Project
     - [ ]  Run  a CI/CD job
 3. Docker
     
-      - [ ]  Setting up Docker Environment
+      - [x]  Setting up Docker Environment
       - [ ]  Managing Docker with Ansible
       - [ ]  DockerHub Repository
       - [ ]  Writing a Dockerfile
@@ -31,5 +31,5 @@ Simple-Devops-Project
       - [ ]  Run a Job
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Njk0MzI3MiwtMjA2MjM1OTk1NF19
+eyJoaXN0b3J5IjpbMzYzMzg4NzUyLC0yMDYyMzU5OTU0XX0=
 -->
