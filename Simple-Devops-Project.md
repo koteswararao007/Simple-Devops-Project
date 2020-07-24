@@ -19,9 +19,14 @@ Simple-Devops-Project
       - [ ] Run a Job
 
  
-5. Ansible
+4. Ansible
+      - [ ] Setting up Ansible Environment 
+       - [ ] Integrating Ansible with Jenkins
+       - [ ] Writing a Ansible playbook to deploy on container
+       - [ ]  Run a job
 6. Kubernetes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMzk2ODkyLC0yMDYyMzU5OTU0XX0=
+eyJoaXN0b3J5IjpbLTE3NDkzNTQ2MTYsLTIwNjIzNTk5NTRdfQ
+==
 -->
